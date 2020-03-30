@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DESKTOP-2RSTGUU" name="newproj.Yest" tests="1" failures="0" timestamp="29 Mar 2020 20:43:37 GMT" time="0.023" errors="0">
+  <testcase name="hello" time="0.01" classname="newproj.Yest"/>
+</testsuite>
